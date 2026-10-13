@@ -1,3 +1,3 @@
-# Ignored example for e2e tests
+# Ignored starter example
 
-This example will not be run as an e2e test as it has the .e2eignore file in the same directory.
+This demonstrates only the generic virtual network starter and remains excluded from end-to-end example discovery. The proposed IaaS VM and Cosmos DB Tier 4 workload is not implemented.
